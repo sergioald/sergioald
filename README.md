@@ -1,8 +1,8 @@
 # Hi, I'm Sergio Lopez-Dubon
 
-I build applied AI tools for complex physical systems, combining sensor data, digital twins, anomaly detection, scientific modelling and reproducible Python workflows.
+I build applied AI and research-software tools for complex physical systems, combining sensor data, digital twins, anomaly detection, scientific modelling and reproducible Python workflows.
 
-My work sits between machine learning, simulation, engineering data and research. I am especially interested in using AI and digital-twin methods to understand, monitor and support complex physical systems.
+My work sits between machine learning, simulation, engineering data and research. I am interested in applied AI, research software, digital twins, scientific machine learning and data-driven modelling roles.
 
 ## Current focus
 
@@ -16,8 +16,8 @@ My work sits between machine learning, simulation, engineering data and research
 
 | Project | Focus |
 |---|---|
-| [Synthetic Hydraulic Digital Twin Demo](https://github.com/sergioald/synthetic-hydraulic-digital-twin-demo) | Synthetic sensor-data generation, validation, energy modelling, anomaly detection, digital-twin state classification and automated reporting |
-| [LDSFL-Meander](https://github.com/sergioald/LDSFL_Meander) | DOI-archived research software for reduced morphodynamic modelling of meandering rivers, with command-line and GUI workflows |
+| [Synthetic Hydraulic Digital Twin Demo](https://github.com/sergioald/synthetic-hydraulic-digital-twin-demo) | Synthetic hydraulic digital-twin demo for sensor validation, energy modelling, anomaly detection and CI-tested reporting.|
+| [LDSFL-Meander](https://github.com/sergioald/LDSFL_Meander) | Reduced meander-evolution model with CLI/GUI workflows, tests, documentation and Zenodo DOI. |
 
 ## Technical areas
 
