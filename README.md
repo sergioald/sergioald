@@ -1,4 +1,4 @@
-# Hi, I'm Sergio Lopez-Dubon
+# Hi, I'm Sergio Lopez Dubon
 
 I build applied AI and research-software tools for complex physical systems, combining sensor data, digital twins, anomaly detection, scientific modelling and reproducible Python workflows.
 
