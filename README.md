@@ -87,7 +87,7 @@ The goal is to build tools that connect data, models, and domain knowledge so th
 ## Contact
 
 - GitHub: [@sergioald](https://github.com/sergioald)
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sergio-lopez-dubon/)
 - Portfolio: Coming soon
 
 <!--
