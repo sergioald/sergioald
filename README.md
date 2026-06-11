@@ -78,7 +78,7 @@ I aim to include:
 
 I am developing my portfolio around the theme:
 
-> **Applied AI and research software for engineering systems.**
+> **Applied AI and research for engineering systems.**
 
 The goal is to build tools that connect data, models, and domain knowledge so that complex systems can be monitored and analysed more effectively.
 
