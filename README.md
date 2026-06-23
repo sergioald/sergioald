@@ -30,10 +30,10 @@ Current focus areas include:
 
 | Project | Focus | What it demonstrates |
 |---|---|---|
-| [`tdms-sync-checker`](https://github.com/sergioald/tdms-sync-checker) | Sensor-data QA/QC | Timing checks, split-file continuity, synchronisation review, and engineering diagnostics for TDMS measurement files |
 | [`synthetic-hydraulic-digital-twin-demo`](https://github.com/sergioald/synthetic-hydraulic-digital-twin-demo) | Digital twins | Synthetic sensor data, monitoring workflows, anomaly detection, fault-state classification, and automated reporting |
 | [`audio-anomaly-detection-structural-testing`](https://github.com/sergioald/audio-anomaly-detection-structural-testing) | Structural monitoring | Audio/signal anomaly detection using feature extraction, similarity checks, and machine-learning workflows |
 | [`LDSFL_Meander`](https://github.com/sergioald/LDSFL_Meander) | Scientific modelling | Reduced morphodynamic modelling, reproducible simulations, CLI/GUI workflows, and research-code documentation |
+| [`tdms-sync-checker`](https://github.com/sergioald/tdms-sync-checker) | Sensor-data QA/QC | Timing checks, split-file continuity, synchronisation review, and engineering diagnostics for TDMS measurement files |
 
 ---
 
