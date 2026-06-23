@@ -62,7 +62,13 @@ Where possible, projects include:
 
 ## Contact
 
+## Contact
+
 I am interested in applied AI, research software, digital twins, and engineering-data workflows.
 
+- Portfolio: [sergioald.github.io](https://sergioald.github.io/)
 - GitHub: [@sergioald](https://github.com/sergioald)
 - LinkedIn: [Sergio Lopez Dubon](https://www.linkedin.com/in/sergio-lopez-dubon/)
+- Academic profile: [University of Edinburgh Research Explorer](https://www.research.ed.ac.uk/en/persons/sergio-lopez-dubon/)
+- Publications: [Google Scholar](https://scholar.google.com/citations?user=0-u25RgAAAAJ&hl=en)
+- ORCID: [0000-0003-0663-607X](https://orcid.org/0000-0003-0663-607X)
