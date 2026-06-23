@@ -29,19 +29,19 @@ I am especially interested in:
 
 | Project | Area | Shows |
 |---|---|---|
-| [`synthetic-hydraulic-digital-twin-demo`](https://github.com/sergioald/synthetic-hydraulic-digital-twin-demo) | Digital twins | Synthetic sensor data, anomaly detection, fault classification, reporting |
-| [`audio-anomaly-detection-structural-testing`](https://github.com/sergioald/audio-anomaly-detection-structural-testing) | Structural monitoring | Feature extraction and anomaly detection for structural-test audio |
-| [`LDSFL_Meander`](https://github.com/sergioald/LDSFL_Meander) | Scientific modelling | Morphodynamic modelling, reproducible simulations, CLI/GUI tools |
-| [`tdms-sync-checker`](https://github.com/sergioald/tdms-sync-checker) | Sensor-data QA/QC | TDMS timing checks, synchronisation diagnostics, split-file continuity |
+| [`Hydraulic Digital Twin`](https://github.com/sergioald/synthetic-hydraulic-digital-twin-demo) | Digital twins | Synthetic sensor data, anomaly detection, fault classification, reporting |
+| [`TDMS Sync Checker`](https://github.com/sergioald/tdms-sync-checker) | Sensor-data QA/QC | TDMS timing checks, synchronisation diagnostics, split-file continuity |
+| [`Structural Audio Anomaly Detection`](https://github.com/sergioald/audio-anomaly-detection-structural-testing) | Structural monitoring | Feature extraction and anomaly detection for structural-test audio |
+| [`LDSFL Meander`](https://github.com/sergioald/LDSFL_Meander) | Scientific modelling | Morphodynamic modelling, reproducible simulations, CLI/GUI tools |
 
 ---
 
 ## Technical focus
 
-**Applied AI:** anomaly detection, classification, signal features, model validation  
-**Engineering data:** TDMS files, sensor synchronisation, data quality, experimental workflows  
-**Scientific Python:** NumPy, pandas, SciPy, Matplotlib, scikit-learn  
-**Research software:** reproducible scripts, documentation, examples, reporting
+- **Applied AI:** anomaly detection, classification, signal features, model validation
+- **Engineering data:** TDMS files, sensor synchronisation, data quality, experimental workflows
+- **Scientific Python:** NumPy, pandas, SciPy, Matplotlib, scikit-learn
+- **Research software:** reproducible scripts, documentation, examples, reporting
 
 ---
 
@@ -61,6 +61,8 @@ Where possible, projects include:
 ---
 
 ## Contact
+
+I am interested in applied AI, research software, digital twins, and engineering-data workflows.
 
 - GitHub: [@sergioald](https://github.com/sergioald)
 - LinkedIn: [Sergio Lopez Dubon](https://www.linkedin.com/in/sergio-lopez-dubon/)
