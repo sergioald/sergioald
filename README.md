@@ -62,8 +62,6 @@ Where possible, projects include:
 
 ## Contact
 
-## Contact
-
 I am interested in applied AI, research software, digital twins, and engineering-data workflows.
 
 - Portfolio: [sergioald.github.io](https://sergioald.github.io/)
