@@ -1,7 +1,7 @@
 # Hi, I'm Sergio 👋
 
 **Applied AI & research software for engineering systems**  
-Digital twins · anomaly detection · sensor-data QA/QC · scientific Python
+Digital twins · anomaly detection · sensor-data QA/QC · scientific Python· environmental and structural monitoring
 
 [![Python](https://img.shields.io/badge/Python-scientific%20%26%20ML-informational?logo=python)](https://www.python.org/)
 [![Research Software](https://img.shields.io/badge/Research%20Software-reproducible%20workflows-informational)](#repository-style)
