@@ -47,6 +47,7 @@ Together, these projects show how I approach applied AI beyond model fitting: da
 ## Additional collaborative work
 
 - **Remote sensing / environmental monitoring:** [`strandings_from_space`](https://github.com/PennyJClarke/strandings_from_space) — collaborative open-source workflow for very-high-resolution satellite-image pre-processing, annotation, and observer-count comparison. My fork is available at [`sergioald/strandings_from_space`](https://github.com/sergioald/strandings_from_space).
+- **Open-source research software / deep learning:** [`GeoOcean/BlueMath_tk`](https://github.com/GeoOcean/BlueMath_tk) — contributed tests and implementation fixes for the `deeplearning` autoencoder module, improving validation coverage and model behaviour across standard, orthogonal, recurrent, convolutional, and transformer-style autoencoders.
 
 ---
 
