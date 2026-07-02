@@ -16,7 +16,7 @@ I am a Research Fellow and Data Scientist working at the interface of **machine 
 
 My work focuses on turning complex engineering and environmental data into reproducible tools for monitoring, validation, anomaly detection, digital-twin-style workflows, and decision support for physical systems.
 
-I am especially interested in applied AI for **sensor-rich engineering systems**, including structural testing, hydraulic systems, environmental monitoring, remote sensing, and hydrology.
+I am especially interested in applied AI for **sensor-rich physical systems**, including structural testing, hydraulic systems, environmental monitoring, remote sensing, hydrology, and river morphodynamics.
 
 ---
 
@@ -27,6 +27,7 @@ The best starting points are:
 - **Digital twins / industrial AI:** [`synthetic-hydraulic-digital-twin-demo`](https://github.com/sergioald/synthetic-hydraulic-digital-twin-demo)
 - **Engineering data QA/QC:** [`tdms-sync-checker`](https://github.com/sergioald/tdms-sync-checker)
 - **Applied ML / anomaly detection:** [`audio-anomaly-detection-structural-testing`](https://github.com/sergioald/audio-anomaly-detection-structural-testing)
+- **Scientific ML / geomorphology:** [`meander-morphology-classifier`](https://github.com/sergioald/meander-morphology-classifier)
 - **Scientific modelling / research software:** [`LDSFL_Meander`](https://github.com/sergioald/LDSFL_Meander)
 
 Together, these projects show how I approach applied AI beyond model fitting: data quality, reproducibility, documentation, validation, reporting, and safe publication boundaries.
@@ -40,6 +41,7 @@ Together, these projects show how I approach applied AI beyond model fitting: da
 | [`Hydraulic Digital Twin`](https://github.com/sergioald/synthetic-hydraulic-digital-twin-demo) | Digital twins / industrial AI | Synthetic sensor data, hydraulic energy estimation, anomaly detection, digital-twin state classification, and automated reporting |
 | [`TDMS Sync Checker`](https://github.com/sergioald/tdms-sync-checker) | Engineering data QA/QC | TDMS timing checks, synchronisation diagnostics, split-file continuity, inactive-channel detection, and report generation |
 | [`Structural Audio Anomaly Detection`](https://github.com/sergioald/audio-anomaly-detection-structural-testing) | Applied ML / anomaly detection | Audio-based anomaly detection for large-scale structural testing, feature extraction, model evaluation, and reproducible research workflows |
+| [`Meander Morphology Classifier`](https://github.com/sergioald/meander-morphology-classifier) | Scientific ML / geomorphology | CWT spectra, autoencoder latent spaces, clustering, Streamlit GUI, Zenodo-linked models, and reproducible meander-bend classification workflows |
 | [`LDSFL Meander`](https://github.com/sergioald/LDSFL_Meander) | Scientific computing / hydrology | Morphodynamic modelling, reproducible simulations, CLI/GUI workflows, documentation, and citation metadata |
 
 ---
@@ -47,7 +49,8 @@ Together, these projects show how I approach applied AI beyond model fitting: da
 ## Additional collaborative work
 
 - **Remote sensing / environmental monitoring:** [`strandings_from_space`](https://github.com/PennyJClarke/strandings_from_space) — collaborative open-source workflow for very-high-resolution satellite-image pre-processing, annotation, and observer-count comparison. My fork is available at [`sergioald/strandings_from_space`](https://github.com/sergioald/strandings_from_space).
-- **Open-source research software / deep learning:** [`GeoOcean/BlueMath_tk`](https://github.com/GeoOcean/BlueMath_tk) — contributed tests and implementation fixes for the `deeplearning` autoencoder module, improving validation coverage and model behaviour across standard, orthogonal, recurrent, convolutional, and transformer-style autoencoders.
+
+- **Open-source research software / deep learning:** [`GeoOcean/BlueMath_tk`](https://github.com/GeoOcean/BlueMath_tk) — active contributions to the `deeplearning` autoencoder module, including smoke tests, implementation fixes, and improved validation of autoencoder behaviour.
 
 ---
 
@@ -56,6 +59,7 @@ Together, these projects show how I approach applied AI beyond model fitting: da
 - **Applied AI:** anomaly detection, classification, time-series and signal features, model validation
 - **Engineering data:** sensor networks, TDMS files, synchronisation diagnostics, data-quality checks
 - **Environmental data:** remote-sensing workflows, hydrology, hydraulic modelling, monitoring pipelines
+- **Scientific ML:** autoencoders, latent spaces, clustering, spectral features, river-morphology classification
 - **Scientific Python:** NumPy, pandas, SciPy, Matplotlib, scikit-learn
 - **Research software:** reproducible workflows, command-line tools, documentation, examples, testing
 
