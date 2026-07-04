@@ -24,11 +24,11 @@ I am especially interested in applied AI for **sensor-rich physical systems**, i
 
 The best starting points are:
 
-- **Digital twins / industrial AI:** [`synthetic-hydraulic-digital-twin-demo`](https://github.com/sergioald/synthetic-hydraulic-digital-twin-demo)
-- **Engineering data QA/QC:** [`tdms-sync-checker`](https://github.com/sergioald/tdms-sync-checker)
-- **Applied ML / anomaly detection:** [`audio-anomaly-detection-structural-testing`](https://github.com/sergioald/audio-anomaly-detection-structural-testing)
 - **Scientific ML / geomorphology:** [`meander-morphology-classifier`](https://github.com/sergioald/meander-morphology-classifier)
+- **Digital twins / industrial AI:** [`synthetic-hydraulic-digital-twin-demo`](https://github.com/sergioald/synthetic-hydraulic-digital-twin-demo)
+- **Applied ML / anomaly detection:** [`audio-anomaly-detection-structural-testing`](https://github.com/sergioald/audio-anomaly-detection-structural-testing)
 - **Scientific modelling / research software:** [`LDSFL_Meander`](https://github.com/sergioald/LDSFL_Meander)
+- **Engineering data QA/QC:** [`tdms-sync-checker`](https://github.com/sergioald/tdms-sync-checker)
 
 Together, these projects show how I approach applied AI beyond model fitting: data quality, reproducibility, documentation, validation, reporting, and safe publication boundaries.
 
@@ -38,11 +38,11 @@ Together, these projects show how I approach applied AI beyond model fitting: da
 
 | Project | Area | What it demonstrates |
 |---|---|---|
-| [`Hydraulic Digital Twin`](https://github.com/sergioald/synthetic-hydraulic-digital-twin-demo) | Digital twins / industrial AI | Synthetic sensor data, hydraulic energy estimation, anomaly detection, digital-twin state classification, and automated reporting |
-| [`TDMS Sync Checker`](https://github.com/sergioald/tdms-sync-checker) | Engineering data QA/QC | TDMS timing checks, synchronisation diagnostics, split-file continuity, inactive-channel detection, and report generation |
+| [`Meander Morphology Classifier`](https://github.com/sergioald/meander-morphology-classifier) | Scientific ML / geomorphology | CWT spectra, autoencoder latent spaces, clustering, Streamlit GUI, Zenodo-linked models, and reproducible meander-bend classification workflows || [`Hydraulic Digital Twin`](https://github.com/sergioald/synthetic-hydraulic-digital-twin-demo) | Digital twins / industrial AI | Synthetic sensor data, hydraulic energy estimation, anomaly detection, digital-twin state classification, and automated reporting |
+
 | [`Structural Audio Anomaly Detection`](https://github.com/sergioald/audio-anomaly-detection-structural-testing) | Applied ML / anomaly detection | Audio-based anomaly detection for large-scale structural testing, feature extraction, model evaluation, and reproducible research workflows |
-| [`Meander Morphology Classifier`](https://github.com/sergioald/meander-morphology-classifier) | Scientific ML / geomorphology | CWT spectra, autoencoder latent spaces, clustering, Streamlit GUI, Zenodo-linked models, and reproducible meander-bend classification workflows |
 | [`LDSFL Meander`](https://github.com/sergioald/LDSFL_Meander) | Scientific computing / hydrology | Morphodynamic modelling, reproducible simulations, CLI/GUI workflows, documentation, and citation metadata |
+| [`TDMS Sync Checker`](https://github.com/sergioald/tdms-sync-checker) | Engineering data QA/QC | TDMS timing checks, synchronisation diagnostics, split-file continuity, inactive-channel detection, and report generation |
 
 ---
 
