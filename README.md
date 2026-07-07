@@ -34,14 +34,23 @@ Together, these projects show how I approach applied AI beyond model fitting: da
 
 ---
 
+## Try the demos
+
+- **Urban drainage telemetry QA/QC demo:** [Launch demo](YOUR_URBAN_DRAINAGE_DEMO_URL) · [Repository](https://github.com/sergioald/urban-drainage-sensor-data-toolkit)
+- **Meander morphology classifier demo:** [Launch demo](YOUR_MEANDER_DEMO_URL) · [Repository](https://github.com/sergioald/meander-morphology-classifier)
+
+These demos use public-safe synthetic or example data so the workflows can be explored without installing the repositories locally.
+
+---
+
 ## Selected projects
 
 | Project | Area | What it demonstrates |
 |---|---|---|
-| [`Meander Morphology Classifier`](https://github.com/sergioald/meander-morphology-classifier) | Scientific ML / geomorphology | Classifying river meander morphology from centreline geometry, curvature spectra, autoencoder latent spaces and clustering |
+| [`Meander Morphology Classifier`](https://github.com/sergioald/meander-morphology-classifier) | Scientific ML / geomorphology | CWT spectra, autoencoder latent spaces, clustering, Streamlit GUI, Zenodo-linked models, reproducible meander-bend classification workflows, and a one-click demo |
 | [`Hydraulic Digital Twin`](https://github.com/sergioald/synthetic-hydraulic-digital-twin-demo) | Digital twins / industrial AI | Synthetic digital-twin workflow for hydraulic systems, from generated sensor data to anomaly detection, state classification and decision-support reports |
 | [`Structural Audio Anomaly Detection`](https://github.com/sergioald/audio-anomaly-detection-structural-testing) | Applied ML / anomaly detection | Audio-based anomaly screening for structural test campaigns |
-| [`Urban Drainage Sensor Data Toolkit`](https://github.com/sergioald/urban-drainage-sensor-data-toolkit) | Environmental monitoring / sensor QA/QC | Public-safe QA/QC, reporting and anomaly screening for urban drainage telemetry |
+| [`Urban Drainage Sensor Data Toolkit`](https://github.com/sergioald/urban-drainage-sensor-data-toolkit) | Environmental infrastructure / sensor QA/QC | Public-safe telemetry QA/QC, synthetic drainage-monitoring data, automated reports, anomaly screening, synthetic monitoring-map outputs, and a one-click interactive demo |
 | [`LDSFL Meander`](https://github.com/sergioald/LDSFL_Meander) | Scientific computing / hydrology | Reduced morphodynamic modelling for river meander evolution |
 | [`TDMS Sync Checker`](https://github.com/sergioald/tdms-sync-checker) | Engineering data QA/QC | Synchronisation and integrity checks for multi-channel TDMS sensor data |
 
